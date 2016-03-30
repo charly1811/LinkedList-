@@ -1,5 +1,5 @@
 # LinkedList
-### A C++ implementation of the LinkedList pattern
+### A Generic LinkedList implementation in C++
 
 ### Example
 See main.cpp for a demo app
